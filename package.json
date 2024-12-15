@@ -1,0 +1,18 @@
+{
+  "name": "pwa-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.13.2",
+    "@parcel/transformer-webmanifest": "^2.13.2",
+    "parcel": "^2.13.2"
+  }
+}
